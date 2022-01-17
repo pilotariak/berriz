@@ -26,4 +26,4 @@
 
 ## License
 
-Portefaix Lab is [Apache 2.0 licensed](./LICENSE).
+[Apache 2.0 licensed](./LICENSE).
